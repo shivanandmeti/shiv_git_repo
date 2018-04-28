@@ -1,2 +1,2 @@
 # shiv_git_repo
-initial git repo
+initial git repository
